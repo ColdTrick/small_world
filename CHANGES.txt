@@ -1,0 +1,9 @@
+= Version history: =
+
+1.0 (2012-05-23):
+- changed: the second degree widget is now a true widget. Use a tool like Widget Manager to pin it on a profile
+- changed: updated for Elgg 1.8
+
+0.1:
+
+- initial release

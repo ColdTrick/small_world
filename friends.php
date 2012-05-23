@@ -11,5 +11,3 @@
 	$body = elgg_view_layout('two_column_left_sidebar', '', $area1 . $area2);
 	
 	page_draw(sprintf(elgg_echo("friends:owned"),$owner->name),$body);
-
-?>
